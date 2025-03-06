@@ -16,7 +16,7 @@ public class Libro {
     /**
      * CONSTRUCTOR VACIO DE LA CLASE LIBRO
      */
-      public Libro() {}
+      private Libro() {}
 
     /**
          * EL CONSTRUCTOR CON TODO, PARA CREAR EL LIBRO.

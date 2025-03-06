@@ -12,7 +12,7 @@ public class Biblioteca {
      * @version 1.0
      */
 
-        private List<Libro> libros;
+        public List<Libro> libros;
 
         /**
          * CONSTRUCTOR VACIO
