@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/PruebaSegundoTrimestre-JavaDoc-UNIT.iml" filepath="$PROJECT_DIR$/.idea/PruebaSegundoTrimestre-JavaDoc-UNIT.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.test.iml" filepath="$PROJECT_DIR$/.idea/modules/test.test.iml" />
     </modules>
   </component>
 </project>
